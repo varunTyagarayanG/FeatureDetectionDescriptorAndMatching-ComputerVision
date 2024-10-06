@@ -12,7 +12,15 @@ This repository contains Python code that implements Harris corner detection, SI
 - `S20220010070_FDDM_output4.png`: The second output image with SIFT keypoints detected.
 - `S20220010070_FDDM_output5.png`: The image showing feature matching between `img2.png` and `img4.png`.
 
-- ![img1-As mentioned in Question](S20220010070_FDDM_output3.png) ![img2-As mentioned in Question](S20220010070_FDDM_output4.png)
+<p float="left">
+  <img src="S20220010070_FDDM_output1.png" width="45%" />
+  <img src="S20220010070_FDDM_output2.png" width="45%" />
+</p>
+<p float="left">
+  <img src="S20220010070_FDDM_output3.png" width="45%" />
+  <img src="S20220010070_FDDM_output4.png" width="45%" />
+</p>
+
 - ![img3-As mentioned in Question](S20220010070_FDDM_output5.png)
 
 
