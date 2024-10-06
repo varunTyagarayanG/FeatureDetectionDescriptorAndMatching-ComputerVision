@@ -21,7 +21,7 @@ This repository contains Python code that implements Harris corner detection, SI
   <img src="S20220010070_FDDM_output4.png" width="45%" />
 </p>
 
-- ![img3-As mentioned in Question](S20220010070_FDDM_output5.png)
+![img3-As mentioned in Question](S20220010070_FDDM_output5.png)
 
 
 ## Code Explanation
